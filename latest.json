@@ -2,6 +2,6 @@
   "versao": "1.0.0",
   "url": "https://github.com/allesongalvao/Edit5/releases/download/v1.0.0/Edit5-Setup-1.0.0.exe",
   "sha256": "D57D788C6E4AFFD96565837BD8C34918A37EEC927EB6B8DDFAAC4920B41AFAD0",
-  "virustotal": "",
+  "virustotal": "https://www.virustotal.com/gui/file/d57d788c6e4affd96565837bd8c34918a37eec927eb6b8ddfaac4920b41afad0/detection",
   "notas": "Primeira versao publica do Edit5."
 }
