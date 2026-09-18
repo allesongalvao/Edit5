@@ -1,7 +1,7 @@
 {
-    "versao":  "1.1.0",
-    "url":  "https://github.com/allesongalvao/Edit5/releases/download/v1.1.0/Edit5-Setup-1.1.0.exe",
-    "sha256":  "BA172B3ACA0CFB5E9506DFE9467D81CBD42B91865E9DB1759E31B07AA1757D71",
-    "virustotal":  "https://www.virustotal.com/gui/file/ba172b3aca0cfb5e9506dfe9467d81cbd42b91865e9db1759e31b07aa1757d71/detection",
-    "notas":  "Conecta com o programa ja aberto e corrige o pareamento no endereco com www."
+    "versao":  "1.2.0",
+    "url":  "https://github.com/allesongalvao/Edit5/releases/download/v1.2.0/Edit5-Setup-1.2.0.exe",
+    "sha256":  "846E47C7F648DCEB274C4F9874F3B6EC8ECBA667FBE500E9E91302BCF2D7E154",
+    "virustotal":  "https://www.virustotal.com/gui/file/846e47c7f648dceb274c4f9874f3b6ec8ecba667fbe500e9e91302bcf2d7e154/detection",
+    "notas":  "O botao Executar abre a ferramenta na mesma aba quando a pagina ja esta pareada, a pagina nao fica mais em branco em janela anonima e o layout parou de pular."
 }
