@@ -1,7 +1,7 @@
 {
-    "versao":  "1.2.0",
-    "url":  "https://github.com/allesongalvao/Edit5/releases/download/v1.2.0/Edit5-Setup-1.2.0.exe",
-    "sha256":  "846E47C7F648DCEB274C4F9874F3B6EC8ECBA667FBE500E9E91302BCF2D7E154",
-    "virustotal":  "https://www.virustotal.com/gui/file/846e47c7f648dceb274c4f9874f3b6ec8ecba667fbe500e9e91302bcf2d7e154/detection",
-    "notas":  "O botao Executar abre a ferramenta na mesma aba quando a pagina ja esta pareada, a pagina nao fica mais em branco em janela anonima e o layout parou de pular."
+    "versao":  "1.2.1",
+    "url":  "https://github.com/allesongalvao/Edit5/releases/download/v1.2.1/Edit5-Setup-1.2.1.exe",
+    "sha256":  "FAAA342B39D44C9E409600576A376CA4829D4D6E1E76FBE8B2EE6ED15A96E9C0",
+    "virustotal":  "https://www.virustotal.com/gui/file/faaa342b39d44c9e409600576a376ca4829d4d6e1e76fbe8b2ee6ed15a96e9c0/detection",
+    "notas":  "Conserta o erro [WinError 2] em maquinas sem FFmpeg no PATH: o Edit5 agora usa de verdade o FFmpeg que vem dentro do instalador. Tambem volta a testar a placa de video em quem ja tinha caido para CPU por causa desse bug."
 }
