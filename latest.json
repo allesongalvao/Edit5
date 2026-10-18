@@ -1,7 +1,7 @@
 {
-    "versao":  "1.3.0",
-    "url":  "https://github.com/allesongalvao/Edit5/releases/download/v1.3.0/Edit5-Setup-1.3.0.exe",
-    "sha256":  "030E6139875CB6728A6E36C9945ED11CB4AC1D600A9C59F808846988B0A5996A",
-    "virustotal":  "https://www.virustotal.com/gui/file/030e6139875cb6728a6e36c9945ed11cb4ac1d600a9c59f808846988b0a5996a/detection",
-    "notas":  "Marca dagua em video com fundo verde: escolha ate 1 imagem e 1 video juntos; o video perde o fundo verde e toca uma vez, com som, no inicio de cada corte. Pontos de Corte desligado agora gera cortes de 1 minuto no formato original, sem reframe. Resolucao em 60fps troca sozinha entre vertical e horizontal."
+    "versao": "1.3.1",
+    "url": "https://github.com/allesongalvao/Edit5/releases/download/v1.3.1/Edit5-Setup-1.3.1.exe",
+    "sha256": "6E7305DE39CB2CB7E5B982928280A2C4E4E0B00670733E791CA639505378C4C3",
+    "virustotal": "https://www.virustotal.com/gui/file/6e7305de39cb2cb7e5b982928280a2c4e4e0b00670733e791ca639505378c4c3/detection",
+    "notas": "Marca dagua em video sem o fio verde no contorno, e video ja transparente (webm ou mov com alfa) entra direto, sem recorte de verde. Slogan novo na pagina. O Edit5 nao divide mais a porta com outra copia aberta."
 }
