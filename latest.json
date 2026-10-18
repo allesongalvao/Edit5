@@ -1,7 +1,7 @@
 {
-    "versao":  "1.2.1",
-    "url":  "https://github.com/allesongalvao/Edit5/releases/download/v1.2.1/Edit5-Setup-1.2.1.exe",
-    "sha256":  "FAAA342B39D44C9E409600576A376CA4829D4D6E1E76FBE8B2EE6ED15A96E9C0",
-    "virustotal":  "https://www.virustotal.com/gui/file/faaa342b39d44c9e409600576a376ca4829d4d6e1e76fbe8b2ee6ed15a96e9c0/detection",
-    "notas":  "Conserta o erro [WinError 2] em maquinas sem FFmpeg no PATH: o Edit5 agora usa de verdade o FFmpeg que vem dentro do instalador. Tambem volta a testar a placa de video em quem ja tinha caido para CPU por causa desse bug."
+    "versao":  "1.3.0",
+    "url":  "https://github.com/allesongalvao/Edit5/releases/download/v1.3.0/Edit5-Setup-1.3.0.exe",
+    "sha256":  "030E6139875CB6728A6E36C9945ED11CB4AC1D600A9C59F808846988B0A5996A",
+    "virustotal":  "https://www.virustotal.com/gui/file/030e6139875cb6728a6e36c9945ed11cb4ac1d600a9c59f808846988b0a5996a/detection",
+    "notas":  "Marca dagua em video com fundo verde: escolha ate 1 imagem e 1 video juntos; o video perde o fundo verde e toca uma vez, com som, no inicio de cada corte. Pontos de Corte desligado agora gera cortes de 1 minuto no formato original, sem reframe. Resolucao em 60fps troca sozinha entre vertical e horizontal."
 }
